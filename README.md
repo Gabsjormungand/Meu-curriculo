@@ -1,6 +1,7 @@
 # Meu-curriculo
 ## gabriel21srs.texeira@gmail.com (19) 99120-1901
 > "Nem no ar, nem nas profundezas do oceano, nem nas cavernas das montanhas, em nenhum lugar do mundo nos podemos abrigar do resultado do mal praticado."
+
 ![foto](foto.jfif)
 ### Objetivo: Dev front-End
 
